@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-backend-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neelendrareddy9001/NodeJs-Backend-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neelendrareddy9001/NodeJs-Backend-API/issues"
+  },
+  "homepage": "https://github.com/neelendrareddy9001/NodeJs-Backend-API#readme",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
